@@ -10,4 +10,6 @@ public class RentVideoApplication {
 		SpringApplication.run(RentVideoApplication.class, args);
 	}
 
+	
 }
+
